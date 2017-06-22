@@ -1,1 +1,1 @@
-React native implementation beginner leve
+React native implementation beginner level.
